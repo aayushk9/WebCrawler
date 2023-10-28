@@ -1,1 +1,1 @@
-It's a project built by Aayush kokate to get better understanding of https and networking. No intension of further development as it was made for learning purpose.
+This project, created by Aayush Kokate, is built for learning purposes to gain a better understanding of HTTPS and networking. There might be further development in this project in the near future.
